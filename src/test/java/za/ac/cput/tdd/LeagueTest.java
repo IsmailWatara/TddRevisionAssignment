@@ -1,5 +1,5 @@
-/**
- * League.java
+package za.ac.cput.tdd; /**
+ * za.ac.cput.tdd.League.java
  * TestClass
  * @author Ismail Watara(219018790)
  * 05 February 2022
@@ -15,6 +15,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
+import za.ac.cput.tdd.League;
 
 import static org.junit.jupiter.api.Assertions.*;
 

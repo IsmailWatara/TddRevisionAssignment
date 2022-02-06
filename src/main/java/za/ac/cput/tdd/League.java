@@ -1,5 +1,7 @@
+package za.ac.cput.tdd;
+
 /**
- * League.java
+ * za.ac.cput.tdd.League.java
  * WorkerClass
  * @author Ismail Watara(219018790)
  * 05 February 2022
@@ -34,7 +36,7 @@
 
         @Override
         public String toString(){
-            return "League("+ "name1=" +name1+",name2="+name2 +')';
+            return "za.ac.cput.tdd.League("+ "name1=" +name1+",name2="+name2 +')';
         }
 
 
