@@ -55,7 +55,7 @@ class StudentTest {
     @Test
     @Disabled
     void testDisabled() {
-        assertSame(student1, student1);
+        System.out.println("THIS SHOULD BE DISABLED");
     }
 
     @Test
